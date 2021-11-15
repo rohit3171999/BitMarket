@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACE,QAAS,CACT,SAAU,CACV,sBAAuB,CACvB,qBACF,CACA,EACE,oBAAqB,CACrB,aACF","file":"main.ec900d3f.chunk.css","sourcesContent":["* {\r\n  margin: 0;\r\n  padding: 0;\r\n  scroll-behavior: smooth;\r\n  box-sizing: border-box;\r\n}\r\na {\r\n  text-decoration: none;\r\n  color: skyblue;\r\n}\r\n"]}

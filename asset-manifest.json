@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bitmarket/static/css/main.ec900d3f.chunk.css",
+    "main.js": "/bitmarket/static/js/main.c5edd6fe.chunk.js",
+    "main.js.map": "/bitmarket/static/js/main.c5edd6fe.chunk.js.map",
+    "runtime-main.js": "/bitmarket/static/js/runtime-main.e629a6a1.js",
+    "runtime-main.js.map": "/bitmarket/static/js/runtime-main.e629a6a1.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/bitmarket/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.b47a0889.chunk.js": "/bitmarket/static/js/2.b47a0889.chunk.js",
+    "static/js/2.b47a0889.chunk.js.map": "/bitmarket/static/js/2.b47a0889.chunk.js.map",
+    "index.html": "/bitmarket/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/bitmarket/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.ec900d3f.chunk.css.map": "/bitmarket/static/css/main.ec900d3f.chunk.css.map",
+    "static/js/2.b47a0889.chunk.js.LICENSE.txt": "/bitmarket/static/js/2.b47a0889.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e629a6a1.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.b47a0889.chunk.js",
+    "static/css/main.ec900d3f.chunk.css",
+    "static/js/main.c5edd6fe.chunk.js"
+  ]
+}
